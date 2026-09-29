@@ -24,6 +24,8 @@ I build platforms other engineers ship on: Terraform modules, GitOps delivery, s
 | [eks-gitops-platform](https://github.com/nrobertio/eks-gitops-platform) | EKS plus Argo CD (app-of-apps), Helm, Kustomize, Kyverno, Flux |
 | [aws-finops-automation](https://github.com/nrobertio/aws-finops-automation) | CUR Athena analysis, tagging enforcement, budgets, rightsizing report |
 | [bedrock-rag-platform](https://github.com/nrobertio/bedrock-rag-platform) | RAG on Amazon Bedrock: Knowledge Base, API, least-privilege IAM, budget guardrail |
+| [internal-developer-platform](https://github.com/nrobertio/internal-developer-platform) | Self-service platform: golden-path Terraform module, observability by default, scaffolding CLI |
+| [agent-runtime-platform](https://github.com/nrobertio/agent-runtime-platform) | Durable-execution, sandboxed runtime for coding agents: TypeScript, PostgreSQL, Docker, self-hostable |
 
 Each repo includes a `docs/PROJECT.md` explaining the design decisions, trade-offs and benefits.
 
@@ -35,4 +37,4 @@ In progress: AWS Advanced Networking Specialty, AWS Security Specialty, AWS Cert
 
 ## Tech
 
-`AWS` `Azure` `GCP` `OCI` `Security` `IAM` `GuardDuty` `On-prem` `Active Directory` `Terraform` `Ansible` `Kubernetes` `EKS` `Helm` `Argo CD` `Kyverno` `Docker` `GitLab CI` `GitHub Actions` `Jenkins` `Python` `Bash` `Go` `Bedrock`
+`AWS` `Azure` `GCP` `OCI` `Security` `IAM` `GuardDuty` `On-prem` `Active Directory` `Terraform` `Ansible` `Kubernetes` `EKS` `Helm` `Argo CD` `Kyverno` `TypeScript` `PostgreSQL` `Docker` `GitLab CI` `GitHub Actions` `Jenkins` `Python` `Bash` `Go` `Bedrock`
