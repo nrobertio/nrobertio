@@ -19,6 +19,8 @@ I build platforms other engineers ship on: Terraform modules, GitOps delivery, s
 |---|---|
 | [aws-security-guardrails](https://github.com/nrobertio/aws-security-guardrails) | Detection baseline plus event-driven auto-remediation (GuardDuty, Config, Lambda) |
 | [secure-sdlc-pipeline](https://github.com/nrobertio/secure-sdlc-pipeline) | DevSecOps pipeline: SAST/DAST/SCA/SBOM on GitLab CI and Jenkins, STRIDE threat model |
+| [observability-stack](https://github.com/nrobertio/observability-stack) | Prometheus, Grafana (as code), Alertmanager, Loki and k6 load tests with alerts you can trigger |
+| [queue-workers-platform](https://github.com/nrobertio/queue-workers-platform) | Async jobs: API enqueue, Redis queue, workers with retries, backoff, dead-letter queue and idempotency |
 | [aws-landing-zone](https://github.com/nrobertio/aws-landing-zone) | Multi-account AWS: Organizations, OUs, SCP guardrails, security baseline, OIDC CI |
 | [aws-hybrid-networking](https://github.com/nrobertio/aws-hybrid-networking) | Transit Gateway hub-and-spoke, hybrid DNS, VPC flow-log analysis |
 | [eks-gitops-platform](https://github.com/nrobertio/eks-gitops-platform) | EKS plus Argo CD (app-of-apps), Helm, Kustomize, Kyverno, Flux |
